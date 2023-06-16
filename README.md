@@ -39,3 +39,5 @@ test the model
 get the interpretation of the model
 
 `python run.py -t PANCAN -m interpretation -l InDEP`
+
+Now, it supports more features, you can use "-r origin,noncoding,cnv,CADD,subtype,norm_exp" to choose what you want to use~~
